@@ -5,8 +5,12 @@ Note that in this design 3389 is the default sensor -- you need to cut and bridg
 Turns out PMW3389 is cheaper to buy on Aliexpress anyway... :D
 
 By trimming lenses to match the footprint, you can fit these sensors in places previously not possible.
-Like the SideraKB version, these PCBAs are released under CERN OHL 2P, a permissive open hardware license.
-
-The Svalboard Open Trackball Onshape repo is permalinked at www.svalboard.com/trackball-repo
+Because they're derived from the SideraKB version, these PCBAs are released under CERN OHL 2P, a permissive open hardware license.
+I don't want to restrict what you do in any way, but since Sidera used this license, its terms still apply.
 
 No support is offered for this design, please don't bug me (:
+
+Note: May 20, 2024
+The Svalboard Open Trackball Onshape repo is permalinked at www.svalboard.com/trackball-repo
+Feel free to copy that repo and use it for whatever you like.
+It will eventually include CAD for trackballs using this PCBA -- currently WIP.
